@@ -1,0 +1,5 @@
+The Arduino Nano is a small, complete, and breadboard-friendly board based on the ATmega328 released in 2008. It offers the same connectivity and specs of the Arduino Uno board in a smaller form factor.​
+
+The Arduino Nano is equipped with 30 male I/O headers, which can be programmed using the Arduino IDE, which is common to all Arduino boards and running both online and offline. The board can be powered through a type-B mini-USB cable or from a 9 V battery.​
+
+For more info on Arduino, please see https://www.arduino.cc​
